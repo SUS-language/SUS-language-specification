@@ -1,4 +1,5 @@
-Official SUS language specification!
-====================================
-Here you can find requirements for creating your own compiler/intereputer.
---------------------------------------------------------------------------
+Welcome to official SUS language specification!
+===============================================
+<!-- TODO: add badges here -->
+
+Visit specification `here <https://sus-language.readthedocs.io/>`.
