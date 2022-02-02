@@ -1,3 +1,4 @@
+=======================
 SUS specification index
 =======================
 .. note::
@@ -11,7 +12,7 @@ Features of SUS language:
  * ...
 
 Contents
---------
+========
 
 .. toctree::
 
