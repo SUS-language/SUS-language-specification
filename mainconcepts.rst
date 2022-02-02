@@ -8,9 +8,9 @@ Main Concepts
 Object is Object!
 -----------------
 Everything is object. Litirally.
-* Attribute,
-* Codeblock.
-* Operator...
-* Call?
-* Syntax!?
-* Everything you can imagine.
+- Attribute,
+- Codeblock.
+- Operator...
+- Call?
+- Syntax!?
+- Everything you can imagine.
