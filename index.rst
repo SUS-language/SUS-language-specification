@@ -15,5 +15,4 @@ Contents
 
 .. toctree::
 
-   index
    page
