@@ -8,6 +8,7 @@ Main Concepts
 Object is Object!
 -----------------
 Everything is object. Litirally.
+
 - Attribute,
 - Codeblock.
 - Operator...
