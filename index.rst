@@ -17,3 +17,5 @@ Contents
 .. toctree::
 
    testpage
+   mainconcepts
+   cheatsheet
