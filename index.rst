@@ -16,6 +16,5 @@ Contents
 
 .. toctree::
 
-   testpage
    mainconcepts
-   cheatsheet
+   temp-page
