@@ -12,6 +12,4 @@ Everything is object. Litirally.
 - Attribute,
 - Codeblock.
 - Operator...
-- Call?
-- Syntax!?
-- Everything you can imagine.
+- Syntax..?
