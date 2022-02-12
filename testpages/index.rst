@@ -6,7 +6,7 @@ Temporary pages index
    This page will be deleted in the future
 
 .. toctree::
-  :maxdepth: 0
+  :maxdepth: 1
 
    testpage
    cheatsheet
