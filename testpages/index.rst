@@ -8,5 +8,5 @@ Temporary pages index
 .. toctree::
   :maxdepth: 1
 
-   testpage
+   testpages/testpage
    cheatsheet
