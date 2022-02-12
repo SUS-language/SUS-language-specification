@@ -17,4 +17,4 @@ Contents
 .. toctree::
 
    mainconcepts
-   temp-page
+   testpages/temp-page
