@@ -9,3 +9,4 @@ Temporary pages index
 
    testpages/testpage
    cheatsheet
+   mermaid.md
