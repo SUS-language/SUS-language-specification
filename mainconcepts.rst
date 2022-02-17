@@ -10,6 +10,7 @@ Object is Object!
 Everything is object. Litirally.
 
 - Attribute,
-- Codeblock.
-- Operator...
-- Syntax..?
+- Codeblock,
+- Operator,
+- Syntax,
+- Even exception/error!
