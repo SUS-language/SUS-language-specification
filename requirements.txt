@@ -1,2 +1,2 @@
 myst_parser
-# sphinxcontrib
+sphinxcontrib-mermaid
