@@ -1,4 +1,4 @@
 extensions = [
     'myst_parser',
-    'sphinxcontrib.mermaid'
+    # 'sphinxcontrib.mermaid'
 ]
