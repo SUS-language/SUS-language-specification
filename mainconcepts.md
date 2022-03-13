@@ -1,12 +1,11 @@
-=============
-Main Concepts
-=============
+# Main Concepts
 
-.. warning::
-    A lot of concepts are stollen from `python <https://www.python.org/>`_
+```{warning}
 
-Object is Object!
------------------
+A lot of concepts are stollen from [python](https://www.python.org/)
+```
+
+## Object is Object!
 Everything is object. Litirally.
 
 - Attribute,
@@ -22,4 +21,4 @@ List of theese required attributes:
  - Class
    Yes, class is attribute, what needed for Method Resolution Order
  - Is error
-   Flag for error. Concept stollen from `Zig <https://ziglang.org/>`_
+   Flag for error. Concept stollen from [Zig](https://ziglang.org/)
