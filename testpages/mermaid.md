@@ -13,7 +13,3 @@ sequenceDiagram
   John->Bob: How about you?
   Bob-->John: Jolly good!
 ```
-
-```{important}
-WTF ID GOING PLS SAY ME
-```
