@@ -38,7 +38,7 @@ Idk what say here but.
 
 ```````{important}
 ``````{note}
-`````{admotion}
+`````{admonition} GAMER MOVE
 :class: warning
 
 ````{note}
