@@ -14,8 +14,15 @@ Features of SUS language:
 ## Contents
 
 ```{toctree}
+:caption: Toble of Cantents
 :maxdepth: 1
+:numbered:
 
-mainconcepts
-testpages/index
+getting-started
+```
+
+```{admonition} Test pages
+:class: warning
+
+You can visit {any}`Temporary Pages Index <testpages/index>`
 ```
