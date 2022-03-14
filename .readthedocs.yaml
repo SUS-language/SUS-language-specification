@@ -3,3 +3,6 @@ version: 2
 python:
   install:
     - requirements: requirements.txt
+
+sphinx:
+  fail_on_warning: true

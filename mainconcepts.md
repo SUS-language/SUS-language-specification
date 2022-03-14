@@ -18,7 +18,7 @@ So, every entity is object in OOP mean (pythonic), it have no any
 hidden attributes/methods, but it has some sort of required attributes.
 They can't be deleted, but as everything else can be modified.
 List of theese required attributes:
- - Class <br>
+ - Class \
    Yes, class is attribute, what needed for Method Resolution Order
- - Is error <br>
+ - Is error \
    Flag for error. Concept stollen from [Zig](https://ziglang.org/)
